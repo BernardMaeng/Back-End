@@ -43,7 +43,7 @@
 <li>MyBatis</li>
 
 ### 📌작업한 기능 설명
-<p>1.JWT & Spring Security </p>
+<h1>1.JWT & Spring Security </h1>
 <img src=https://user-images.githubusercontent.com/115197642/210565082-70d826f1-c345-48be-a246-7565d2745ba2.png></img>
 <img src=https://user-images.githubusercontent.com/115197642/210565580-f96e97fe-438d-4951-b3c0-364d45b4364e.png></img>
 
