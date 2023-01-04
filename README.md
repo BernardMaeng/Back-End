@@ -43,7 +43,7 @@
 <li>MyBatis</li>
 
 ### 📌작업한 기능 설명
-<img src=https://user-images.githubusercontent.com/115197642/210564624-6b68568d-eb07-4823-b8b0-f8bc9b83407a.png/>
+<img src=https://user-images.githubusercontent.com/115197642/210564624-6b68568d-eb07-4823-b8b0-f8bc9b83407a.png></img>
 
 <br>
 <br>
