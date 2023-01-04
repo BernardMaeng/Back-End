@@ -31,7 +31,7 @@
 </div>
 <hr>
 
- ###  📕[Frontend](https://github.com/ggangb/React)
+ ###  📕[Frontend](https://github.com/BernardMaeng/Front-End.git)
 <li>HTML</li>
 <li>CSS</li>
 <li>React</li>
